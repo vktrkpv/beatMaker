@@ -60,3 +60,5 @@ drumkit.pads.forEach(pad => {
 drumkit.playBtn.addEventListener("click", function(){
     drumkit.start();
 });
+
+console.log();
